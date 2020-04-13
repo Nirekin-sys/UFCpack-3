@@ -41,5 +41,5 @@ This is a modpack for **Yairm's Unciv**, introducing 4 new unique civilizations 
   * Unique Building: Ashikunj
   > A great piece of civil engineering. Within the decorated and robust stone walls of an Ashikunj, batches and crews of dedicated dendrologists, herablists and practicioners of plant breeding work in day and night to produce and create surpluses of bountiful plantlife and trees that can either be used for agriculture or other tasks (woodwork or medicine). A cultural and scientific phenomenon completely unique to the Ashipur.
 ---
-## How to install (PC)
+## How to install
 After downloading the ZIP file, you will be able to find in it a folder containing 4 files. The 4 files are named after the civilizations in the pack. Dragging any of them into the /mods directory of your Unciv client should enable you to assign the civilizations in game setting.
